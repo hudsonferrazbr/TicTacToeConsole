@@ -1,4 +1,4 @@
-# tic-tac-toe-console-app-demo
+# tic tac toe console app demo
 
 Tic-tac-toe (known as noughts and crosses) is a classic paper-and-pencil strategy game for two players. 
 
